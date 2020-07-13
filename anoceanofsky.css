@@ -1,0 +1,265 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #061C37;
+	background: #12475A url(background-pru2.png);
+	background-repeat:repeat-x;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+#page
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 670px;
+}
+
+.topNaviagationLink
+{
+text-align:center;
+position:relative;
+margin-top:30px;
+font-size:18px;
+margin-left:6px;
+width:121px;
+height: 35px;
+line-height: 35px;
+float:left;
+color:#CEEAEE;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+
+.topNaviagationLink a
+{
+text-decoration:none;
+color:#CDE2FC;
+}
+
+.topNaviagationLink a:hover
+{
+text-align:center;
+border-bottom:none;
+color:#0C61C9;
+display: block;
+width:121px;
+height: 35px;
+line-height: 35px;
+background-image:url(tab.png);
+
+}
+
+
+.topNaviagationLink .active
+{
+text-align:center;
+border-bottom:none;
+color:#0C61C9;
+display: block;
+width:121px;
+height: 35px;
+line-height: 35px;
+background-image:url(tab.png);
+
+}
+
+#mainPicture
+{
+width:660px;
+height:386px;
+background-color:#FFFFFF;
+}
+
+#mainPicture
+{
+width:800px;
+height:300px;
+background-color:#FFFFFF;
+}
+
+#mainPicture .picture
+{
+position:relative;
+background-image:url(thunderbolt-1905603_1280.png);
+background-repeat:no-repeat;
+background-size: 100% 100%;
+width:780px;
+height:280px;
+top:10px;
+margin-left:10px;
+}
+
+
+#headerTitle
+{
+position:relative;
+top:30px;
+left:40px;
+font-size:30px;
+color:#FFFFFF;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+#headerSubtext
+{
+position:relative;
+top:30px;
+left:50px;
+font-size:20px;
+color:#A9C8FA;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+.contentBox
+{
+width:800px;
+height:auto;
+background-color:#FFFFFF;
+margin-top:10px;
+padding-bottom:25px;
+}
+
+.contentBox .innerBox
+{
+position:relative;
+width:780px;
+height:auto;
+top:10px;
+margin-left:10px;
+background-image:url(content_back.png);
+background-repeat:repeat-x;
+padding-bottom:25px;
+}
+
+.contentTitle
+{
+font-size:22px;
+color:#061C37;
+margin-bottom:5px;
+padding-top:18px;
+margin-left:15px;
+margin-top:15px;
+}
+
+.contentText
+{
+font-size:15px;
+line-height:24px;
+margin-left:13px;
+margin-right:13px;
+}
+
+.contentTitlehome
+{
+font-size:30px;
+color:#061C37;
+margin-bottom:15px;
+padding-top:10px;
+margin-left:20px;
+margin-top:15px;
+}
+
+.contentTexthome
+{
+font-size:20px;
+line-height:20px;
+margin-left:20px;
+margin-right:-4px;
+}
+
+.contentTexthome2
+{
+font-size:20px;
+line-height:20px;
+margin-left:20px;
+margin-right:10px;
+}
+
+.contentTextcv
+{
+font-size:15px;
+line-height:24px;
+margin-left:13px;
+margin-right:13px;
+margin-bottom:13px;
+}
+
+
+.pdfcv
+{
+font-size:22px;
+color:#061C37;
+margin-bottom:5px;
+text-align:center;
+padding-top:18px;
+margin-left:15px;
+margin-top:15px;
+}
+
+
+#footer {
+
+width: 800px;
+height:16px;
+background: url(footer-pru2.png) repeat-x;
+text-align:center;
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+padding-top:5px;
+}
+
+#footer a
+{
+text-decoration:none;
+font-size:9px;
+color:#386172;
+}
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+
+ul {
+  list-style: none;
+font-size:18px;
+color:#061C37;
+margin-bottom:5px;
+padding-top:18px;
+margin-left:15px;
+margin-top:15px;
+
+}
+
+li {
+  padding-left: 1em; 
+  text-indent: -3em;
+}
+
+li::before {
+  content: "■ ";
+  color: #2980b9; /* or whatever color you prefer */
+font-size: 20px;
+padding: 10px;
+
+}
+
+    
+
+
+
+
